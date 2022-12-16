@@ -1,0 +1,6 @@
+.vs
+Properties
+bin
+obj
+*.csproj.user
+App.config
